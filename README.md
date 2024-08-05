@@ -3,7 +3,7 @@ Welcome
 Welcome to my front-end developer portfolio! I'm Abhishek Kumar, a passionate and detail-oriented front-end developer with experience in building responsive, user-friendly websites and applications. This portfolio showcases my work and highlights my skills in modern web technologies.
 
 ## About Me
-I'm Abhishek kumar, a front-end developer based in github. I specialize in creating interactive and visually appealing web applications using a range of technologies. With a strong focus on user experience and clean, maintainable code, I strive to deliver high-quality solutions that meet both user needs and business goals.
+I'm Abhishek kumar, a front-end developer based in Almabetter. I specialize in creating interactive and visually appealing web applications using a range of technologies. With a strong focus on user experience and clean, maintainable code, I strive to deliver high-quality solutions that meet both user needs and business goals.
 
 ## Skills: HTML, CSS, JavaScript, React, Redux, TailwindCSS, Next.js, Sass, Webpack, Git
 Tools: VSCode, Chrome DevTools, GitHub, Figma, Adobe XD
