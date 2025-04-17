@@ -20,7 +20,7 @@ Version Control: Proficient in using Git for version control and collaboration.
 Feel free to reach out to me if you have any questions or would like to discuss potential opportunities!
 
 ## Email: abhiabhishekrkt1996@gmail.com
-## LinkedIn: https://x.com/Abhishe41953898?s=08 
+## LinkedIn: www.linkedin.com/in/Abhirkt1996 
 ## GitHub: https://github.com/Abhirkt1996
 ## Twitter: https://x.com/Abhishe41953898?s=08 
 ## License
